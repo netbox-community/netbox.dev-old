@@ -59,6 +59,7 @@ plugins:
 
 author:
   name   : "NetBox Maintainer"
+  avatar: "/assets/images/authors/default.jpg"
 
 footer:
   links:
@@ -77,8 +78,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
-      comments: true
       share: true
       related: true
   # _pages
@@ -87,7 +88,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
 
 # Archives
 category_archive:

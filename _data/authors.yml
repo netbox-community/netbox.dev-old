@@ -1,0 +1,13 @@
+Jeremy Stretch:
+  name: "Jeremy Stretch"
+  bio: "Lead NetBox maintainer & distinguished engineer @ [NS1](https://ns1.com/)"
+  location: "Raleigh, North Carolina, US"
+  avatar: "/assets/images/authors/jeremy-stretch.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jeremystretch"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jstretch85"
+
