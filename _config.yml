@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NetBox
-subtitle: The premiere network SoT solution
+title: NetBox.dev
+subtitle: Your source for all things NetBox
 description: >-
   netbox.dev is the official website for the NetBox project.
 url: https://netbox.dev/
@@ -81,7 +81,7 @@ defaults:
       show_date: true
       read_time: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"

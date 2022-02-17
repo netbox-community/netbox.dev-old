@@ -3,7 +3,7 @@ title: "Okta Authentication with NetBox"
 date: 2022-02-04
 author: Jeremy Stretch
 categories:
-  - Tips & Tricks
+  - Tips and Tricks
 tags:
   - authentication
 ---
