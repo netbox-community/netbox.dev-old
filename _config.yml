@@ -97,3 +97,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XYTGERVXK0"
+    anonymize_ip: true
+
