@@ -36,5 +36,5 @@ NS1 is hiring a software to help develop our commercial [NetBox Cloud](https://w
 >   - Tools in the modern DevOps toolkit
 >   - Cloud infrastructure (AWS, GCP, Azure)
 
-This position is available for full-time remote work, to candidates in the US, UK, and Ireland. You can learn more about this role and apply on [NS1's careers site](https://ns1.com/careers?gh_jid=3987296).
+This position is available for full-time remote work, to candidates in the US, UK, and Ireland. You can learn more about this role and apply on [NS1's careers site](https://ns1.com/careers?gh_jid=4186206).
 
