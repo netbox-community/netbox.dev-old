@@ -10,4 +10,9 @@ Jeremy Stretch:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jstretch85"
+Sofia Eroshevich:
+  name: "Sofia (Melody) Eroshevich"
+  bio: "My Name is Sofia Eroshevich (going by Melody) and I am from Berlin. I am an apprentice at SAP. In my free time I like to involve myself with hacker- and makerspaces, gaming, and cosplay."
+  location: "Berlin, Germany"
+  avatar: "/assets/images/authors/sofia-eroshevich.jpg"
 
