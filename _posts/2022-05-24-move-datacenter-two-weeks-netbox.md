@@ -1,7 +1,7 @@
 ---
-title: "How to Move a Datacenter, in Two Weeks, with NetBox"
+title: "How to Move a Datacenter in Two Weeks with NetBox"
 subtitle: "How I found NetBox and learned to love documentation"
-date: 2022-05-22
+date: 2022-05-24
 author: Sofia Eroshevich
 categories:
   - War Stories

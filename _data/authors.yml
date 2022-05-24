@@ -15,4 +15,8 @@ Sofia Eroshevich:
   bio: "My Name is Sofia Eroshevich (going by Melody) and I am from Berlin. I am an apprentice at SAP. In my free time I like to involve myself with hacker- and makerspaces, gaming, and cosplay."
   location: "Berlin, Germany"
   avatar: "/assets/images/authors/sofia-eroshevich.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sofia-e-62a101209/"
 
